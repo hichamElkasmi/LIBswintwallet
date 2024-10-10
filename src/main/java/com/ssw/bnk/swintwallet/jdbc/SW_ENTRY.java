@@ -13,8 +13,8 @@ import com.ssw.bnk.swintwallet.jdbc.in.SS_Prc.TRANSACTION_TYPE;
 import java.sql.Clob;
 
 /**
- *
- * @author MOKHLISS
+ * @author MOKHLISS 
+ * @Update by Hicham ELKASMI
  */
 public class SW_ENTRY {
    
